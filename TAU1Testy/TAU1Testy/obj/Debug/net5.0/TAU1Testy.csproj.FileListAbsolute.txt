@@ -1,0 +1,12 @@
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\bin\Debug\net5.0\TAU1Testy.deps.json
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\bin\Debug\net5.0\TAU1Testy.dll
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\bin\Debug\net5.0\ref\TAU1Testy.dll
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\bin\Debug\net5.0\TAU1Testy.pdb
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\obj\Debug\net5.0\TAU1Testy.csprojAssemblyReference.cache
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\obj\Debug\net5.0\TAU1Testy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\obj\Debug\net5.0\TAU1Testy.AssemblyInfoInputs.cache
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\obj\Debug\net5.0\TAU1Testy.AssemblyInfo.cs
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\obj\Debug\net5.0\TAU1Testy.csproj.CoreCompileInputs.cache
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\obj\Debug\net5.0\TAU1Testy.dll
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\obj\Debug\net5.0\ref\TAU1Testy.dll
+C:\Users\PB\source\repos\TAU1Testy\TAU1Testy\obj\Debug\net5.0\TAU1Testy.pdb
